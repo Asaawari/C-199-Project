@@ -13,7 +13,7 @@ server.listen()
 list_of_clients = []
 
 questions = [
-    "What is the Italian word for Pie? \n a. Pasty \n b. Patty \n c. Pizza"
+    "What is the Italian word for Pie? \n a. Pasty \n b. Patty \n c. Pizza",
     "Water boils at 212 Units at which scale? \n a. Fahrenheit \n b. Celsius \n c. Kelvin",
     "Which sea creature has three hearts? \n a. Octopus \n b. Seahorse \n c. Mandarin Fish ",
     "How many bones are present in the human body? \n a. 205 \n b. 206 \n c. 306",
